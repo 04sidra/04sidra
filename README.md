@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://github.com/04sidra/04sidra/blob/main/profile.png" 
-       width="180" 
-       style="border-radius:50%;" 
-       alt="Sidra Profile Picture"/>
-</p><!-- Typing Animation Header -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sidra+Tul+Muntaha;Python+Developer+🐍;React+Developer+⚛️;Django+Engineer+🚀;AI+Application+Builder+🤖" />
 </h1>
