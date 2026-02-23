@@ -56,13 +56,6 @@ Full-stack Django web application connecting donors with patients with structure
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04sidra&layout=compact&theme=radical" height="160"/>
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-
-![Snake animation](https://github.com/04sidra/04sidra/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 Connect With Me
 
